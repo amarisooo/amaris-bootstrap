@@ -1,3 +1,7 @@
+This Bootstrap 5 class project is by AMARIS OVALLE.
+
+This project was started on Oct. 11, 2023.
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
